@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I am a Data and Machine learning Engineer with a background in computer Engineering. I am passionate about promoting the research-Innovation-Enterprise nexus employing data-driven solutions to real-life business problems. I am proudly a certified AWS AI practitioner (by Amazon Web Service)..
+I am a Data and Machine learning Engineer with a background in Computer Engineering. I am passionate about promoting the research-Innovation-Enterprise nexus employing data-driven solutions to real-life business problems. I am proudly a certified AWS AI practitioner and IBM AI AI practitioner.
 
 Here are some ideas to get you started:
 
