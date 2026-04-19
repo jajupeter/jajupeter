@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 💫 About Me:
-🔭 I’m currently working on translating academic research into deployable products for enterprise and public sector impact<br>🌱 I’m currently learning advanced topics in Generative AI (LLMs, RAG, prompt engineering)<br>👯 I’m looking to collaborate on cross-disciplinary AI/ML research projects (health, education, smart cities)<br>🤔 I’m looking for help with Fine-tuning domain-specific LLMs<br>💬 Ask me about building end-to-end machine learning systems<br>📫 Portfolio and how to reach me:  <a href="https://jajupeter.github.io/opeyemiojajuni/index.html" target="new">opeyemiojajuni</a><br>😄 Pronouns: He/Him<br>⚡ Fun fact: When I’m not building models or debugging pipelines, you’ll find me experimenting with VR simulations or mapping out AI-powered smart cities!
+🔭 I’m currently working on translating research into deployable products for enterprise and public sector impact<br>🌱 I’m currently learning advanced topics in Generative AI (LLMs, RAG, prompt engineering)<br>👯 I’m looking to collaborate on cross-disciplinary AI/ML research projects (health, education, smart cities)<br>🤔 I’m looking for help with Fine-tuning domain-specific LLMs<br>💬 Ask me about building end-to-end machine learning systems<br>📫 Portfolio and how to reach me:  <a href="https://jajupeter.github.io/opeyemiojajuni/index.html" target="new">opeyemiojajuni</a><br>😄 Pronouns: He/Him<br>⚡ Fun fact: When I’m not building models or debugging pipelines, you’ll find me experimenting with VR simulations or mapping out AI-powered smart cities!
 
 
 ## 🌐 Socials:
